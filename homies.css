@@ -1,0 +1,43 @@
+body,html{
+    height: 100%;
+}
+.all{
+    background-color: bisque;
+    height: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.signup-body{
+    background-color: aliceblue;
+    text-align: center;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.home{
+    background-color: lawngreen;
+    height: 100%;
+    padding: 0%;
+}
+.login-body{
+    background-color: rosybrown;
+    height: 100%;
+    background-repeat: space;
+    background-size: cover;
+    text-align: center;
+    text-overflow: ellipsis;
+}
+.login-creds{
+    text-align: center;
+    text-justify: kashida;
+}
+.forgotpassbody{
+    text-align: center;
+    background-repeat: repeat;
+    height: 100%;
+    background-size: contain;
+    background-color: cadetblue;
+}
